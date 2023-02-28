@@ -9,3 +9,5 @@
 
 # ejecutar
     yarn dev
+    
+apt install node yarn
